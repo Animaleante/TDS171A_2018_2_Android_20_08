@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609922260070",
+    "firebase_url": "https://atividade20082018.firebaseio.com",
+    "project_id": "atividade20082018",
+    "storage_bucket": "atividade20082018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609922260070:android:77dd5c1bda22ebea",
+        "android_client_info": {
+          "package_name": "com.diogo.opet.atividade_20_08_2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609922260070-lcl6h2rps1qgilf3fagnhp7dfh8sllul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diogo.opet.atividade_20_08_2018",
+            "certificate_hash": "db9e7da151a61dddcd287d419c62578b78c2e45b"
+          }
+        },
+        {
+          "client_id": "609922260070-selnb5dg6md0b1f0up80q36racthsqbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD536UbvZpVSBJXb8V__tDuvvnXPSdaQ7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609922260070-selnb5dg6md0b1f0up80q36racthsqbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atividade_20_08_2018</string>
+    <string name="btn_login">Logar</string>
+    <string name="btn_register">Registrar</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Senha</string>
+    <string name="login_password_confirm_hint">Confirme a Senha</string>
+    <string name="login_successful">Login feito com sucesso!</string>
+</resources>

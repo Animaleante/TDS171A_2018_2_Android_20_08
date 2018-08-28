@@ -6,4 +6,15 @@
     <string name="login_password_hint">Senha</string>
     <string name="login_password_confirm_hint">Confirme a Senha</string>
     <string name="login_successful">Login feito com sucesso!</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_signout">Sair</string>
+    <string name="edit_nome_hint">Insira seu nome</string>
+    <string name="btn_save">Salvar</string>
+
+    <array name="graduacoes">
+        <item>Básico</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>pós</item>
+    </array>
 </resources>

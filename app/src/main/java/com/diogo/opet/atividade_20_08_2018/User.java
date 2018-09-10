@@ -9,13 +9,13 @@ import java.util.Date;
 public class User {
     private String login;
     private String nome;
-    private Date nascimento;
+    private String nascimento;
     private String graduacao;
     private long ultimoLogin;
 
     public User() {}
 
-    public User(String login, String nome, Date nascimento, String graduacao) {
+    public User(String login, String nome, String nascimento, String graduacao) {
         this.login = login;
         this.nome = nome;
         this.nascimento = nascimento;
@@ -39,11 +39,11 @@ public class User {
         this.nome = nome;
     }
 
-    public Date getNascimento() {
+    public String getNascimento() {
         return nascimento;
     }
 
-    public void setNascimento(Date nascimento) {
+    public void setNascimento(String nascimento) {
         this.nascimento = nascimento;
     }
 

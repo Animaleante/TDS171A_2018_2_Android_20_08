@@ -31,6 +31,14 @@
           }
         },
         {
+          "client_id": "609922260070-29mfqe67vg2slho6gopctln2hant6el1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diogo.opet.atividade_20_08_2018",
+            "certificate_hash": "e75a496a8cfab2c87fecdebf4c6e9e4b8877bddf"
+          }
+        },
+        {
           "client_id": "609922260070-selnb5dg6md0b1f0up80q36racthsqbt.apps.googleusercontent.com",
           "client_type": 3
         }
